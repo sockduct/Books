@@ -1,0 +1,19 @@
+This is test 1 for the remove double blank lines generator and the peeker class.
+This is test 2 for the remove double blank lines generator and the peeker class.
+This is test 3 for the remove double blank lines generator and the peeker class.
+
+This is test 4 for the remove double blank lines generator and the peeker class.
+This is test 5 for the remove double blank lines generator and the peeker class.
+This is test 6 for the remove double blank lines generator and the peeker class.
+
+
+This is test 7 for the remove double blank lines generator and the peeker class.
+This is test 8 for the remove double blank lines generator and the peeker class.
+This is test 9 for the remove double blank lines generator and the peeker class.
+
+
+
+This is test 10 for the remove double blank lines generator and the peeker class.
+This is test 11 for the remove double blank lines generator and the peeker class.
+This is test 12 for the remove double blank lines generator and the peeker class.
+
