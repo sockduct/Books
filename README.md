@@ -10,4 +10,6 @@ Current Books:
 Free eBooks
 
 * [Structure and Interpretation of Computer Programs](https://www.mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Why’s (Poignant) Guide to Ruby](http://poignant.guide/book/)
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
